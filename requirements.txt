@@ -1,0 +1,10 @@
+tqdm
+nltk
+emoji
+numpy
+spacy
+pandas
+seaborn
+scikit-learn
+textblob
+matplotlib
